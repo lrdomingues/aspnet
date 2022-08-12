@@ -10,11 +10,10 @@ ASP.NET web application to manage contacts
 4 - Allow editing an existing record.<br>
 5 - Allow deletion of an existing record.<br>
 
-<b>Plugin public area</b>
+<b>Demonstration</b>
 
-1 - A page for listing people.
-<a href="https://lucasdomingues.eu1.alfasoft.pt/contact-management/" target="_blank">Public area</a>
-![overview](https://github.com/lrdomingues/wordpress-plugin/blob/master/public-overview-plugin.gif)
+1 - A page for listing contacts.
+![overview]([https://github.com/lrdomingues/aspnet/blob/main/aspnet.gif](https://github.com/lrdomingues/aspnet/blob/main/aspnet.gif))
 
 ## Scripts
 admin area files are in <b>plugins/novo-plugin</b> directory.<br>
