@@ -13,7 +13,7 @@ ASP.NET web application to manage contacts
 <b>Demonstration</b>
 
 1 - A page for listing contacts.
-![overview]([https://github.com/lrdomingues/aspnet/blob/main/aspnet.gif](https://github.com/lrdomingues/aspnet/blob/main/aspnet.gif))
+![overview](https://github.com/lrdomingues/aspnet/blob/main/aspnet.gif)
 
 ## Scripts
 admin area files are in <b>plugins/novo-plugin</b> directory.<br>
