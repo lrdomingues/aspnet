@@ -19,12 +19,8 @@ Run this command in Package Manager Console:<br>
 PM> Update-Database -Context <b>BancoContext</b><br>
 
 If you download this to test, don't forget to provide the project
-the username and password
-in the file "file", to make the connection with the database.
-
-### `Plugin and API`
-The plugin consumes the following API:<br/>
-[https://restcountries.com/v2/all](https://restcountries.com/v2/all)
+the <b>username</b> and <b>password</b>
+in the file <b>"appsettings.json"</b>, to make the connection with the database.
 
 <br/><br/>
 <p align="center"><b>by Lucas R. Domingues</b></p>
